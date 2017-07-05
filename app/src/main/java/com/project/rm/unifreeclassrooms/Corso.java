@@ -12,6 +12,7 @@ public class Corso {
     //now create constructor and getter setter method using shortcut like command+n for mac & Alt+Insert for window.
     public Corso(){}
 
+/* TEST COSTRUTTORE */
     public Corso(String numero_Corso, String nome_Corso) {
         this.numero_Corso = numero_Corso;
         this.nome_Corso = nome_Corso;
