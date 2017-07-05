@@ -1,0 +1,117 @@
+{
+  "project_info": {
+    "project_number": "858345714035",
+    "firebase_url": "https://teachersnotifications.firebaseio.com",
+    "project_id": "teachersnotifications",
+    "storage_bucket": "teachersnotifications.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858345714035:android:6fb1f1bd12d85d17",
+        "android_client_info": {
+          "package_name": "com.project.rm.teachersnotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858345714035-stp9a51s1uf35t3830e73ds2pubm2se0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project.rm.teachersnotifications",
+            "certificate_hash": "a85321a149aad1cd290b9b857183f9630c5fa725"
+          }
+        },
+        {
+          "client_id": "858345714035-mhrvfcv0697bi9fghntld02ovbvktd2p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0zWXQ1Y5tX1ESSga0DjjVkDbGmvF8O1U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858345714035-mhrvfcv0697bi9fghntld02ovbvktd2p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858345714035:android:25a51a708f77ee2a",
+        "android_client_info": {
+          "package_name": "com.example.marco.navigationdrawertutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858345714035-mhrvfcv0697bi9fghntld02ovbvktd2p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0zWXQ1Y5tX1ESSga0DjjVkDbGmvF8O1U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858345714035:android:4449dc9d7b6d1b7b",
+        "android_client_info": {
+          "package_name": "com.project.rm.unifreeclassrooms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858345714035-mhrvfcv0697bi9fghntld02ovbvktd2p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0zWXQ1Y5tX1ESSga0DjjVkDbGmvF8O1U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

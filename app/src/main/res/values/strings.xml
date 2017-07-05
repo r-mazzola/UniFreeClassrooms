@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">UniFreeClassrooms</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">These are not the settings you are looking for</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string-array name="Orari_Lezioni">
+        <item>08.00</item>
+        <item>08.30</item>
+        <item>09.00</item>
+        <item>09.30</item>
+        <item>10.00</item>
+        <item>10.30</item>
+        <item>11.00</item>
+        <item>11.30</item>
+        <item>12.00</item>
+        <item>12.30</item>
+        <item>13.00</item>
+        <item>13.30</item>
+        <item>14.00</item>
+        <item>14.30</item>
+        <item>15.00</item>
+        <item>15.30</item>
+        <item>16.00</item>
+        <item>16.30</item>
+        <item>17.00</item>
+        <item>17.30</item>
+        <item>18.00</item>
+        <item>18.30</item>
+        <item>19.00</item>
+    </string-array>
+
+    <!-- Corsi -->
+    <string-array name="nuovi_corsi">
+        <item>21055:Analisi I</item>
+        <item>21010:Chimica</item>
+        <item>21011:Fisica I</item>
+        <item>24012:Fisica II</item>
+        <item>21512:Fondamenti di automatica</item>
+        <item>25052:Sistemi operativi</item>
+        <item>22012:Calcolatori elettronici</item>
+        <item>23012:Informatica II</item>
+        <item>23042:Geometria e algebra lineare</item>
+        <item>21019:Economia e organizzzazione aziendale</item>
+        <item>27012:Fondamenti di elettronica</item>
+    </string-array>
+
+</resources>

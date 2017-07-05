@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_time_choice"
+            android:icon="@drawable/ic_action_access_time"
+            android:title="Aule libere" />
+        <item
+            android:id="@+id/nav_notice_board"
+            android:icon="@drawable/ic_action_assignment"
+            android:title="Bacheca messaggi" />
+        <!--<item
+            android:id="@+id/nav_manage_subs"
+            android:icon="@drawable/ic_action_create"
+            android:title="Modifica iscrizioni" />-->
+        <item
+            android:id="@+id/nav_account"
+            android:icon="@drawable/ic_action_account_circle"
+            android:title="Profilo" />
+    </group>
+
+    <item android:title="AppVersion 0.1">
+        <menu>
+            <item
+                android:id="@+id/nav_info"
+                android:icon="@drawable/ic_action_info_outline"
+                android:title="App Info" />
+            <!--<item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Send" />-->
+        </menu>
+    </item>
+
+</menu>
